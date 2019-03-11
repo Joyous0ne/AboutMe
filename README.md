@@ -25,12 +25,17 @@ Most of these are tech manuals. Without a doubt, <a href="https://nostarch.com/"
       <ul>
         <li>Non-PocketMans</li>
         <ul>
-          <li>Hacker Methodology Handbook by Thomas Bobec</li>
-          <li>Hash Crack: Password Cracking Manual (v3) by Joshua Picolet </li>
-          <li>Rtfm: Red Team Field Manual 1.0 Edition by Ben Clark</li>
-          <li>Blue Team Field Manual (BTFM) (RTFM) Paperback by Alan J White</li>
-          <li>Blue Team Handbook: Incident Response Edition: A condensed field guide for the Cyber Security Incident Responder. by Don Murdoch GSE</li>
-              </ul>
+          <li>HPenetration Testing: A Hands-On Introduction to Hacking 1st Edition by Georgia Weidman </li>
+          <liHacking: The Art of Exploitation, 2nd Edition 2nd Edition by Jon Erickson  </li>
+          <li>Google Hacking for Penetration Testers 3rd Edition by Johnny Long (Author), Bill Gardner  (Author), Justin Brown (Author)</li>
+          <li>Metasploit Bootcamp: The fastest way to learn Metasploit by Nipun Jaswal White</li>
+          <li>Practical Malware Analysis: The Hands-On Guide to Dissecting Malicious Software 1st Edition by Michael Siko</li>
+          <li>Black Hat Python: Python Programming for Hackers and Pentesters 1st Edition by Justin Seitz</li>
+          <li>The Car Hacker's Handbook: A Guide for the Penetration Tester 1st Edition by Craig Smith</li>
+          <li>Practical Forensic Imaging Securing Digital Evidence with Linux Tools by Bruce Nikkel </li>
+          <li>Malware Data Science Attack Detection and Attribution by Joshua Saxe with Hillary Sanders</li>
+              
+            </ul>
         </ul>
   </ul>
 
@@ -40,7 +45,7 @@ Most of these are tech manuals. Without a doubt, <a href="https://nostarch.com/"
 <br>
 <h2>News</h2><br>
   <br>
-<h2>Websites/Blogs</h2><br>
+<h2>Web Browsers/VPN Apps</h2><br>
   <br>
 <h2>The Twitter</h2><br>
   <br>
