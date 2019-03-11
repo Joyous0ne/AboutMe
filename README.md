@@ -4,6 +4,7 @@ I seek what I am. Therefore I am complex, beautiful, inspirational, and entertai
 
 
 #Socail Media
+<br>
 <a href="www.linkedin.com/in/joyhuggins">LinkedIn</a>
          <br>
 <a href="www.twitter.com/_joyous_">Twitter</a>
