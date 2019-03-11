@@ -25,7 +25,7 @@ Most of these are tech manuals. Without a doubt, <a href="https://nostarch.com/"
         <li>Non-PocketMans</li>
         <ul>
           <li>HPenetration Testing: A Hands-On Introduction to Hacking 1st Edition by Georgia Weidman </li>
-          <liHacking: The Art of Exploitation, 2nd Edition 2nd Edition by Jon Erickson  </li>
+          <li>iHacking: The Art of Exploitation, 2nd Edition 2nd Edition by Jon Erickson  </li>
           <li>Google Hacking for Penetration Testers 3rd Edition by Johnny Long (Author), Bill Gardner  (Author), Justin Brown (Author)</li>
           <li>Metasploit Bootcamp: The fastest way to learn Metasploit by Nipun Jaswal White</li>
           <li>Practical Malware Analysis: The Hands-On Guide to Dissecting Malicious Software 1st Edition by Michael Siko</li>
