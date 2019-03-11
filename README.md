@@ -34,6 +34,7 @@ Most of these are tech manuals. Without a doubt, <a href="https://nostarch.com/"
           <li>Practical Forensic Imaging Securing Digital Evidence with Linux Tools by Bruce Nikkel </li>
           <li>Malware Data Science Attack Detection and Attribution by Joshua Saxe with Hillary Sanders</li> 
       </ul>
+    </ul>
 </ul>
     
 <h3>Gaming<h3></br>
