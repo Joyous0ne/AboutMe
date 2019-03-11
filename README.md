@@ -17,6 +17,7 @@ Most of these are tech manuals. Without a doubt, <a href="https://nostarch.com/"
           <li>Rtfm: Red Team Field Manual 1.0 Edition by Ben Clark</li>
           <li>Blue Team Field Manual (BTFM) (RTFM) Paperback by Alan J White</li>
           <li>Blue Team Handbook: Incident Response Edition: A condensed field guide for the Cyber Security Incident Responder. by Don Murdoch GSE</li>
+<ul>
       <ul>
         <li>Non-PocketMans</li>
         <ul>
@@ -31,7 +32,7 @@ Most of these are tech manuals. Without a doubt, <a href="https://nostarch.com/"
           <li>Malware Data Science Attack Detection and Attribution by Joshua Saxe with Hillary Sanders</li> 
         </ul>
      </ul>
-      
+              </ul>      
 </ul>
     
 <h3>Gaming<h3></br>
