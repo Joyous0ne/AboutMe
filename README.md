@@ -6,13 +6,21 @@ I do a lot of breaking stuff at home. Literally. It wouldn't be offsive security
 <br>
 <h2>Books</h2>
 Most of these are tech manuals. Without a doubt, <a href="https://nostarch.com/">No Starch Press</a> and <a href="https://www.packtpub.com/">Packt></a> are my favorite tech publishers. For the one's that aren't techmans, they are Important in shaping who I am toady.
-<h3>Networking/Offensive Security</h3><br>
-PocketMans
-Hacker Methodology Handbook by Thomas Bobec <br>
-Hash Crack: Password Cracking Manual (v3) by Joshua Picolet <br>
-Rtfm: Red Team Field Manual 1.0 Edition by Ben Clark <br>
-Blue Team Field Manual (BTFM) (RTFM) Paperback by Alan J White <br>
-Blue Team Handbook: Incident Response Edition: A condensed field guide for the Cyber Security Incident Responder. by Don Murdoch GSE <br>
+
+<ul>
+  <li><h3>Networking/Offensive Security</h3></li>
+      <ul>
+        <li>PocketMans</li>
+        <ul>
+          <li>Hacker Methodology Handbook by Thomas Bobec</li>
+          <li>Hash Crack: Password Cracking Manual (v3) by Joshua Picolet </li>
+          <li>Rtfm: Red Team Field Manual 1.0 Edition by Ben Clark</li>
+          <li>Blue Team Field Manual (BTFM) (RTFM) Paperback by Alan J White</li>
+          <li>Blue Team Handbook: Incident Response Edition: A condensed field guide for the Cyber Security Incident Responder. by Don Murdoch GSE</li>
+        </ul>
+    </ul>
+  </li>
+
 <h3>Gaming<h3></br>
 <h3>Mentorship</h3><br>
 <h3>Leadership</h3><br>
