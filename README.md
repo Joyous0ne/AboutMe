@@ -18,7 +18,6 @@ Most of these are tech manuals. Without a doubt, <a href="https://nostarch.com/"
           <li>Blue Team Field Manual (BTFM) (RTFM) Paperback by Alan J White</li>
           <li>Blue Team Handbook: Incident Response Edition: A condensed field guide for the Cyber Security Incident Responder. by Don Murdoch GSE</li>
                <br>     
-       <ul>
         <li>PocketMans</li>
         <ul>
           <li>Hacker Methodology Handbook by Thomas Bobec</li>
@@ -27,13 +26,7 @@ Most of these are tech manuals. Without a doubt, <a href="https://nostarch.com/"
           <li>Blue Team Field Manual (BTFM) (RTFM) Paperback by Alan J White</li>
           <li>Blue Team Handbook: Incident Response Edition: A condensed field guide for the Cyber Security Incident Responder. by Don Murdoch GSE</li>
           
-          </li>
-        </ul>
-    </ul>
-    </ul>
-    </ul>
-    </ul>
-    
+            
  
 
 <h3>Gaming<h3></br>
