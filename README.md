@@ -7,8 +7,8 @@ I do a lot of breaking stuff at home. Literally. It wouldn't be offsive security
 <h2>Books</h2>
 Most of these are tech manuals. Without a doubt, <a href="https://nostarch.com/">No Starch Press</a> and <a href="https://www.packtpub.com/">Packt></a> are my favorite tech publishers. For the one's that aren't techmans, they are Important in shaping who I am toady.
 
-<ul>
-  <li><h3>Networking/Offensive Security</h3></li>
+<li><h3>Networking/Offensive Security</h3></li>
+
       <ul>
         <li>PocketMans</li>
         <ul>
