@@ -5,8 +5,18 @@ I seek what I am. Therefore I am complex, beautiful, inspirational, and entertai
 I do a lot of breaking stuff at home. Literally. It wouldn't be offsive security if I didn't try harder. Without some of the resources I would be lost in the sauce. Keep in mind these are running lists:
 <br>
 <h2>Books</h2><br>
+<h3>Networking</h3><br>
+<h3>Offensive Security</h3><br>
+<h3>Gaming<h3></br>
+<h3>Mentorship</h3><br>
+<h3>Leadership</h3><br>
+<br>
 <h2>News</h2><br>
+  <br>
 <h2>Websites</h2><br>
+  <br>
 <h2>Twitter</h2><br>
+  <br>
 <h2>Instagram</h2><br>
+  <br>
 
