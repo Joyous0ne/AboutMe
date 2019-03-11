@@ -14,7 +14,7 @@ Most of these are tech manuals. For the one's that aren't, they are Important in
 <br>
 <h2>News</h2><br>
   <br>
-<h2>Websites</h2><br>
+<h2>Websites/Blogs</h2><br>
   <br>
 <h2>The Twitter</h2><br>
   <br>
