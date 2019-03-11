@@ -20,7 +20,7 @@ Most of these are tech manuals. Without a doubt, <a href="https://nostarch.com/"
               </ul>
         </ul>
   
- <ul>
+
       <ul>
         <li>Non-PocketMans</li>
         <ul>
