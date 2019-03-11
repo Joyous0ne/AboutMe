@@ -36,7 +36,8 @@ Most of these are tech manuals. Without a doubt, <a href="https://nostarch.com/"
               
           </ul>
        </ul>
-
+</ul>
+    
 <h3>Gaming<h3></br>
 <h3>Mentorship</h3><br>
 <h3>Leadership</h3><br>
