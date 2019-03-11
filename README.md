@@ -47,7 +47,7 @@ Most of these are tech manuals. Without a doubt, <a href="https://nostarch.com/"
   <br>
 <h2>The Twitter</h2><br>
   <br>
-<h2>The Instagram</h2><br>
+<h2>The Instagram</h2><br> 
   <br>
 <h2>The YouTubes</h2><br>
   <br>
