@@ -18,24 +18,22 @@ Most of these are tech manuals. Without a doubt, <a href="https://nostarch.com/"
           <li>Blue Team Field Manual (BTFM) (RTFM) Paperback by Alan J White</li>
           <li>Blue Team Handbook: Incident Response Edition: A condensed field guide for the Cyber Security Incident Responder. by Don Murdoch GSE</li>
               </ul>
-        </ul>
-  
-
+            
       <ul>
         <li>Non-PocketMans</li>
         <ul>
           <li>HPenetration Testing: A Hands-On Introduction to Hacking 1st Edition by Georgia Weidman </li>
           <li>iHacking: The Art of Exploitation, 2nd Edition 2nd Edition by Jon Erickson  </li>
-          <li>Google Hacking for Penetration Testers 3rd Edition by Johnny Long (Author), Bill Gardner  (Author), Justin Brown (Author)</li>
+          <li>Google Hacking for Penetration Testers 3rd Edition by Johnny Long, Bill Gardner, Justin Brown</li>
           <li>Metasploit Bootcamp: The fastest way to learn Metasploit by Nipun Jaswal White</li>
           <li>Practical Malware Analysis: The Hands-On Guide to Dissecting Malicious Software 1st Edition by Michael Siko</li>
           <li>Black Hat Python: Python Programming for Hackers and Pentesters 1st Edition by Justin Seitz</li>
           <li>The Car Hacker's Handbook: A Guide for the Penetration Tester 1st Edition by Craig Smith</li>
           <li>Practical Forensic Imaging Securing Digital Evidence with Linux Tools by Bruce Nikkel </li>
-          <li>Malware Data Science Attack Detection and Attribution by Joshua Saxe with Hillary Sanders</li>
-              
-          </ul>
-       </ul>
+          <li>Malware Data Science Attack Detection and Attribution by Joshua Saxe with Hillary Sanders</li> 
+        </ul>
+      </ul>
+      
 </ul>
     
 <h3>Gaming<h3></br>
