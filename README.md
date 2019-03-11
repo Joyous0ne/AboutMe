@@ -19,7 +19,6 @@ Most of these are tech manuals. Without a doubt, <a href="https://nostarch.com/"
           <li>Blue Team Handbook: Incident Response Edition: A condensed field guide for the Cyber Security Incident Responder. by Don Murdoch GSE</li>
          </ul>
 <ul>            
-      <ul>
         <li>Non-PocketMans</li>
         <ul>
           <li>HPenetration Testing: A Hands-On Introduction to Hacking 1st Edition by Georgia Weidman </li>
